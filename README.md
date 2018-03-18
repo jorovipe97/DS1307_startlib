@@ -1,5 +1,5 @@
 # DS1307 startlib
-This is an start-up library for facilitate the use of the DS1307 real time clock
+This is a start-up arduino project for facilitate the use of the DS1307 real time clock
 
 ## Author: Jose Villalobos
 
